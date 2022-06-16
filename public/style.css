@@ -5,9 +5,7 @@
 }
 
 canvas {
-  /* width: 400px;
-  height: 600px; */
   display: block;
-  margin: 100px auto;
+  margin: 200px auto;
   border: 1px solid black;
 }
