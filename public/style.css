@@ -9,3 +9,9 @@ canvas {
   margin: 50px auto 0 auto;
   border: 1px solid black;
 }
+
+img {
+  display: block;
+  margin: 20px auto 5px;
+  height: 40px;
+}
